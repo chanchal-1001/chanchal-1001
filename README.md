@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanchal-1001
-- 👀 I have a strong passion for AIML and have actively pursued learning and certifications in this field.
-- ✨ Certified AIML Engineer from BITS Pilani, Hyderabad with more than 2 years of hands-on experience in AIML and 7.8 years of expertise in designing, developing, and deploying RESTful Service.
+- 👀 Certified AIML Engineer from BITS Pilani, Hyderabad with more than 2 years of hands-on experience in AIML and 7.8 years of expertise in designing, developing, and deploying RESTful Service.
+- ✨ I have a strong passion for AIML and have actively pursued learning and certifications in this field.
 - 🌱 Seeking a position where I can leverage my skills and knowledge in Artificial Intelligence and Machine Learning, areas I am genuinely passionate about.
 - 💞️ I am eager to collaborate on AIML projects and contribute my skills to innovative solutions.
 - 📫 You can contact me via email(chanch1001@gmail.com) or via linkedIn https://www.linkedin.com/in/chanchal-sahu/
